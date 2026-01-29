@@ -1,2 +1,2 @@
 # Homelab
-Personal homelab for technology testing
+Index of my study infrastructure.
