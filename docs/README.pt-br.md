@@ -6,3 +6,6 @@
 ## Ambiente de Desenvolvimento
 ### Máquina Hospedeira
 - **IDE:** [Configuração do VS Code IDE](https://github.com/DiogoZanini/VSCode-IDE-setup)
+
+### Pendrive USB SanDisk
+- **Tails OS:** [Portable-Linux-Tails](https://github.com/DiogoZanini/Portable-Linux-Tails)
