@@ -18,12 +18,10 @@ Problemas comuns e suas soluções.
 
 [Guia completo de solução de problemas](./docs/TROUBLESHOOTING.md)
 
-### Conflito de nome de driver. Já existe outro driver com o mesmo nome do que está sendo registrado. (VERR_PDM_USB_NAME_CLASH)
-- **Problema:** Driver corrompido e duplicado no sistema hospedeiro (host);
-- **Solução:** <details><summary>Reinstalar e remover todos os dados.</summary>
-
-- Desinstale o VirtualBox;
-- Remova as pastas `C:\Program Files\Oracle\VirtualBox` e os arquivos `C:\Windows\System32\drivers\VBox*`;
-- Reinicie o sistema;
-- Instale o [VirtualBox](https://www.virtualbox.org/) novamente.
-</details>
+### Driver name clash (VERR_PDM_USB_NAME_CLASH)
+- **Problema:** Drivers USB corrompidos/duplicados após reinstalação ou atualização.
+- **Solução:** Reinstalar o VirtualBox do zero:
+  1. Desinstalar o VirtualBox (aceitar a remoção de todos os componentes de rede/USB);
+  2. Deletar `C:\Program Files\Oracle\VirtualBox` e `C:\Windows\System32\drivers\VBox*`;
+  3. Reiniciar o sistema;
+  4. Reinstalar pelo [virtualbox.org](https://www.virtualbox.org/).
