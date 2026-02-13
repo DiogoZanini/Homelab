@@ -12,3 +12,18 @@
 
 ### Pendrive USB SanDisk
 - **Tails OS:** [Portable-Linux-Tails](https://github.com/DiogoZanini/Portable-Linux-Tails)
+
+## Solução de Problemas
+Problemas comuns e suas soluções.
+
+[Guia completo de solução de problemas](./docs/TROUBLESHOOTING.md)
+
+### Conflito de nome de driver. Já existe outro driver com o mesmo nome do que está sendo registrado. (VERR_PDM_USB_NAME_CLASH)
+- **Problema:** Driver corrompido e duplicado no sistema hospedeiro (host);
+- **Solução:** <details><summary>Reinstalar e remover todos os dados.</summary>
+
+- Desinstale o VirtualBox;
+- Remova as pastas `C:\Program Files\Oracle\VirtualBox` e os arquivos `C:\Windows\System32\drivers\VBox*`;
+- Reinicie o sistema;
+- Instale o [VirtualBox](https://www.virtualbox.org/) novamente.
+</details>
