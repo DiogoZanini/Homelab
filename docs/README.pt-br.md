@@ -6,14 +6,15 @@
 ![network_diagram drawio](https://github.com/user-attachments/assets/84e62055-0c59-4938-8264-b21d70742098)
 
 ## Ambiente de Desenvolvimento
-### Máquina Hospedeira
-- **IDE:** [Configuração do VS Code IDE](https://github.com/DiogoZanini/VSCode-IDE-setup)
 
-### pfSense [Oracle VirtualBox]
-- **Gateway de Rede Virtual:** Gateway padrão para a rede virtual do laboratório, responsável pelo roteamento e regras de firewall.
+### Máquina Host
+- [**VS Code IDE:**](https://github.com/DiogoZanini/VSCode-IDE-setup) Configuração do VSCode para desenvolvimento em C, Python e SQLite, estendendo o fluxo de trabalho do CS50.
 
-### Pendrive USB SanDisk
-- **Tails OS:** [Portable-Linux-Tails](https://github.com/DiogoZanini/Portable-Linux-Tails)
+### pfSense (Oracle VirtualBox)
+- [**Gateway de Rede Virtual:**](https://github.com/DiogoZanini/pfSense) Gateway padrão da rede do laboratório virtual, responsável pelo roteamento e regras de firewall.
+
+### SanDisk USB Drive
+- [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Configuração pessoal e notas operacionais para um ambiente de segurança amnésico em um pendrive.
 
 ## Solução de Problemas
 Problemas comuns e suas soluções.

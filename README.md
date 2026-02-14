@@ -6,14 +6,15 @@ Index of my study infrastructure.
 ![network_diagram drawio](https://github.com/user-attachments/assets/84e62055-0c59-4938-8264-b21d70742098)
 
 ## Development Environment
-### Host Machine
-- **IDE:** [VS Code IDE Setup](https://github.com/DiogoZanini/VSCode-IDE-setup).
 
-### pfSense [Oracle VirtualBox]
-- **Virtual Network Gateway:** Default gateway for the virtual lab network, handling routing and firewall rules.
+### Host Machine
+- [**VS Code IDE:**](https://github.com/DiogoZanini/VSCode-IDE-setup) VSCode setup for C, Python and SQLite development, extending CS50's workflow.
+
+### pfSense (Oracle VirtualBox)
+- [**Virtual Network Gateway:**](https://github.com/DiogoZanini/pfSense) Default gateway for the virtual lab network, handling routing and firewall rules.
 
 ### SanDisk USB Drive
-- **Tails Amnesic Incognito System:** [Portable Linux Tails](https://github.com/DiogoZanini/Portable-Linux-Tails).
+- [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Personal setup and operational notes for an amnesic security environment on a USB drive. 
 
 ## Troubleshooting
 Common issues and their solutions.
