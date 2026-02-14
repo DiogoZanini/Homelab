@@ -3,6 +3,8 @@
 
 [**EN-US**](../README.md)
 
+![network_diagram drawio](https://github.com/user-attachments/assets/84e62055-0c59-4938-8264-b21d70742098)
+
 ## Ambiente de Desenvolvimento
 ### Máquina Hospedeira
 - **IDE:** [Configuração do VS Code IDE](https://github.com/DiogoZanini/VSCode-IDE-setup)
