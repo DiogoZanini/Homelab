@@ -16,6 +16,15 @@
 ### SanDisk USB Drive
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Configuração pessoal e notas operacionais para um ambiente de segurança amnésico em um pendrive.
 
+## Roadmap
+- [x] Tails Amnesic Incognito System em um pendrive;
+- [x] Máquina Host: VS Code IDE e Oracle VirtualBox;
+- [x] Máquina virtual pfSense;
+- [ ] Máquina virtual Kali Linux para análise;
+- [ ] Máquinas vulneráveis Metasploitable;
+- [ ] Servidor Web vulnerável OWASP Juice Shop;
+- [ ] Laboratório SOC.
+
 ## Solução de Problemas
 Problemas comuns e suas soluções.
 

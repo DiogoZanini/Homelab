@@ -16,6 +16,15 @@ Index of my study infrastructure.
 ### SanDisk USB Drive
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Personal setup and operational notes for an amnesic security environment on a USB drive. 
 
+## Roadmap
+- [x] Tails Amnesic Incognito System live on a USB drive;
+- [x] Host Machine: VS Code IDE and Oracle VirtualBox;
+- [x] pfSense virtual machine;
+- [ ] Kali Linux analyst virtual machine;
+- [ ] Metasploitable vulnerable machines;
+- [ ] OWASP Juice Shop vulnerable Web Server;
+- [ ] SOC Laboratory.
+
 ## Troubleshooting
 Common issues and their solutions.
 
