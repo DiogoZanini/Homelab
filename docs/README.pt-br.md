@@ -3,7 +3,7 @@
 
 [**EN-US**](../README.md)
 
-![network_diagram drawio](https://github.com/user-attachments/assets/84e62055-0c59-4938-8264-b21d70742098)
+![network_diagram drawio](./homelab_network_diagram.png)
 
 ## Ambiente de Desenvolvimento
 
@@ -13,6 +13,9 @@
 ### pfSense (Oracle VirtualBox)
 - [**Gateway de Rede Virtual:**](https://github.com/DiogoZanini/pfSense) Gateway padrão da rede do laboratório virtual, responsável pelo roteamento e regras de firewall.
 
+### Kali Linux (Oracle VirtualBox)
+- **Kali Linux Analyst Machine:** Máquina virtual Kali Linux para análise de segurança do ambiente homelab e desafios CTF em plataformas de estudo online.
+
 ### SanDisk USB Drive
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Configuração pessoal e notas operacionais para um ambiente de segurança amnésico em um pendrive.
 
@@ -20,7 +23,7 @@
 - [x] Tails Amnesic Incognito System em um pendrive;
 - [x] Máquina Host: VS Code IDE e Oracle VirtualBox;
 - [x] Máquina virtual pfSense;
-- [ ] Máquina virtual Kali Linux para análise;
+- [x] Máquina virtual Kali Linux para análise;
 - [ ] Máquinas vulneráveis Metasploitable;
 - [ ] Servidor Web vulnerável OWASP Juice Shop;
 - [ ] Laboratório SOC.

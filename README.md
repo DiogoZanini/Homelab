@@ -3,7 +3,7 @@ Index of my study infrastructure.
 
 [**PT-BR**](./docs/README.pt-br.md)
 
-![network_diagram drawio](https://github.com/user-attachments/assets/19fda682-4fa7-4bba-9a0a-46d447e2461e)
+![Homelab Diagram](./docs/homelab_network_diagram.png)
 
 ## Development Environment
 
