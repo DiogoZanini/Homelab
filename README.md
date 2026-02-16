@@ -3,7 +3,7 @@ Index of my study infrastructure.
 
 [**PT-BR**](./docs/README.pt-br.md)
 
-![network_diagram drawio](https://github.com/user-attachments/assets/09d83df1-878a-4684-bf92-bed5dfb53531)<?xml version="1.0" encoding="UTF-8"?>
+![network_diagram drawio](https://github.com/user-attachments/assets/19fda682-4fa7-4bba-9a0a-46d447e2461e)
 
 ## Development Environment
 
