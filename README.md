@@ -3,7 +3,7 @@ Index of my study infrastructure.
 
 [**PT-BR**](./docs/README.pt-br.md)
 
-![network_diagram drawio](https://github.com/user-attachments/assets/84e62055-0c59-4938-8264-b21d70742098)
+![network_diagram drawio](https://github.com/user-attachments/assets/09d83df1-878a-4684-bf92-bed5dfb53531)<?xml version="1.0" encoding="UTF-8"?>
 
 ## Development Environment
 
@@ -13,6 +13,9 @@ Index of my study infrastructure.
 ### pfSense (Oracle VirtualBox)
 - [**Virtual Network Gateway:**](https://github.com/DiogoZanini/pfSense) Default gateway for the virtual lab network, handling routing and firewall rules.
 
+### Kali Linux (Oracle VirtualBox)
+- **Kali Linux Analyst Machine:** Kali Linux analyst virtual machine for security analysis of the homelab environment and CTF challenges on online study platforms.
+
 ### SanDisk USB Drive
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Personal setup and operational notes for an amnesic security environment on a USB drive. 
 
@@ -20,7 +23,7 @@ Index of my study infrastructure.
 - [x] Tails Amnesic Incognito System live on a USB drive;
 - [x] Host Machine: VS Code IDE and Oracle VirtualBox;
 - [x] pfSense virtual machine;
-- [ ] Kali Linux analyst virtual machine;
+- [x] Kali Linux analyst virtual machine;
 - [ ] Metasploitable vulnerable machines;
 - [ ] OWASP Juice Shop vulnerable Web Server;
 - [ ] SOC Laboratory.
