@@ -14,7 +14,7 @@ Index of my study infrastructure.
 - [**Virtual Network Gateway:**](https://github.com/DiogoZanini/pfSense) Default gateway for the virtual lab network, handling routing and firewall rules.
 
 ### Kali Linux (Oracle VirtualBox)
-- [**Kali Linux Analyst Machine:**](https://github.com/DiogoZanini/Homelab) Kali Linux analyst virtual machine for security analysis of the homelab environment and CTF challenges on online study platforms.
+- [**Kali Linux Analyst Machine:**](https://github.com/DiogoZanini/Kali-Linux) Kali Linux analyst virtual machine for security analysis of the homelab environment and CTF challenges on online study platforms.
 
 ### SanDisk USB Drive
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Personal setup and operational notes for an amnesic security environment on a USB drive. 
