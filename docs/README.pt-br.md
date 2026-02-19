@@ -14,7 +14,7 @@
 - [**Gateway de Rede Virtual:**](https://github.com/DiogoZanini/pfSense) Gateway padrão da rede do laboratório virtual, responsável pelo roteamento e regras de firewall.
 
 ### Kali Linux (Oracle VirtualBox)
-- **Kali Linux Analyst Machine:** Máquina virtual Kali Linux para análise de segurança do ambiente homelab e desafios CTF em plataformas de estudo online.
+- [**Kali Linux Analyst Machine:**](https://github.com/DiogoZanini/Homelab) Máquina virtual Kali Linux para análise de segurança do ambiente homelab e desafios CTF em plataformas de estudo online.
 
 ### SanDisk USB Drive
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Configuração pessoal e notas operacionais para um ambiente de segurança amnésico em um pendrive.
