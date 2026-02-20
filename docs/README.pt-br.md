@@ -7,21 +7,21 @@
 
 ## Ambiente de Desenvolvimento
 
-### Máquina Host
+## Ambiente de Desenvolvimento
+
+### 🖥️ Ambiente Host 
 - [**VS Code IDE:**](https://github.com/DiogoZanini/VSCode-IDE-setup) Configuração do VSCode para desenvolvimento em C, Python e SQLite, estendendo o fluxo de trabalho do CS50.
+- [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Configuração pessoal e notas operacionais para um ambiente de segurança amnésico em pendrive.
 
-### pfSense (Oracle VirtualBox)
-- [**Gateway de Rede Virtual:**](https://github.com/DiogoZanini/pfSense) Gateway padrão da rede do laboratório virtual, responsável pelo roteamento e regras de firewall.
+### 🌐 Infraestrutura do Homelab
+- [**pfSense:**](https://github.com/DiogoZanini/pfSense) Gateway padrão para a rede do laboratório virtual, gerenciando roteamento e regras de firewall.
 
-### Kali Linux (Oracle VirtualBox)
-- [**Kali Linux Analyst Machine:**](https://github.com/DiogoZanini/Homelab) Máquina virtual Kali Linux para análise de segurança do ambiente homelab e desafios CTF em plataformas de estudo online.
-
-### SanDisk USB Drive
-- [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Configuração pessoal e notas operacionais para um ambiente de segurança amnésico em um pendrive.
+### 🔴 Red Team / Análise
+- [**Kali Linux:**](https://github.com/DiogoZanini/Kali-Linux) Máquina virtual analista para análise de segurança do ambiente homelab e desafios CTF em plataformas de estudo online.
 
 ## Roadmap
 
-### 🛠️ Ferramentas Externas
+### 🖥️ Ambiente Host
 - [x] Máquina Host: VS Code IDE + Oracle VirtualBox;
 - [x] Tails Amnesic Incognito System (USB Inicializável);
 

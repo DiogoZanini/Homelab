@@ -7,21 +7,19 @@ Index of my study infrastructure.
 
 ## Development Environment
 
-### Host Machine
+### 🖥️ Host Environment 
 - [**VS Code IDE:**](https://github.com/DiogoZanini/VSCode-IDE-setup) VSCode setup for C, Python and SQLite development, extending CS50's workflow.
+- [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Personal setup and operational notes for an amnesic security environment on a USB drive.
 
-### pfSense (Oracle VirtualBox)
-- [**Virtual Network Gateway:**](https://github.com/DiogoZanini/pfSense) Default gateway for the virtual lab network, handling routing and firewall rules.
+### 🌐 Homelab Infrastructure
+- [**pfSense:**](https://github.com/DiogoZanini/pfSense) Default gateway for the virtual lab network, handling routing and firewall rules.
 
-### Kali Linux (Oracle VirtualBox)
-- [**Kali Linux Analyst Machine:**](https://github.com/DiogoZanini/Kali-Linux) Kali Linux analyst virtual machine for security analysis of the homelab environment and CTF challenges on online study platforms.
-
-### SanDisk USB Drive
-- [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Personal setup and operational notes for an amnesic security environment on a USB drive. 
+### 🔴 Red Team / Analysis
+- [**Kali Linux:**](https://github.com/DiogoZanini/Kali-Linux) Analyst virtual machine for security analysis of the homelab environment and CTF challenges on online study platforms.
 
 ## Roadmap
 
-### 🛠️ External Tools
+### 🖥️ Host Environment 
 - [x] Host Machine: VS Code IDE + Oracle VirtualBox;
 - [x] Tails Amnesic Incognito System (Bootable USB);
 
