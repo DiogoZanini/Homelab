@@ -5,7 +5,7 @@ Index of my study infrastructure.
 
 ![Homelab Diagram](./docs/homelab_network_diagram.png)
 
-## Development Environment
+## Deployed Environment
 
 ### 🖥️ Host Environment 
 - [**VS Code IDE:**](https://github.com/DiogoZanini/VSCode-IDE-setup) VSCode setup for C, Python and SQLite development, extending CS50's workflow.
@@ -19,14 +19,10 @@ Index of my study infrastructure.
 
 ## Roadmap
 
-### 🖥️ Host Environment 
+**Completed:**
 - [x] Host Machine: VS Code IDE + Oracle VirtualBox;
 - [x] Tails Amnesic Incognito System (Bootable USB);
-
-### 🌐 Homelab Infrastructure
 - [x] pfSense VM (Firewall/Router);
-
-### 🔴 Red Team / Analysis
 - [x] Kali Linux VM (Security Analysis);
 
 ### 🎯 Attack Surface (Vulnerable Targets)

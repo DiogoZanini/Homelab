@@ -5,9 +5,7 @@
 
 ![network_diagram drawio](./homelab_network_diagram.png)
 
-## Ambiente de Desenvolvimento
-
-## Ambiente de Desenvolvimento
+## Ambiente Implementado 
 
 ### 🖥️ Ambiente Host 
 - [**VS Code IDE:**](https://github.com/DiogoZanini/VSCode-IDE-setup) Configuração do VSCode para desenvolvimento em C, Python e SQLite, estendendo o fluxo de trabalho do CS50.
@@ -21,14 +19,10 @@
 
 ## Roadmap
 
-### 🖥️ Ambiente Host
+**Completo:**
 - [x] Máquina Host: VS Code IDE + Oracle VirtualBox;
 - [x] Tails Amnesic Incognito System (USB Inicializável);
-
-### 🌐 Infraestrutura do Homelab
 - [x] pfSense VM (Firewall/Roteador);
-
-### 🔴 Red Team / Análise
 - [x] Kali Linux VM (Análise de Segurança);
 
 ### 🎯 Superfície de Ataque (Alvos Vulneráveis)
