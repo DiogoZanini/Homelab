@@ -36,7 +36,6 @@ Index of my study infrastructure.
 **Web Applications:**
 - [ ] OWASP Juice Shop;
 - [ ] DVWA (Damn Vulnerable Web Application);
-- [ ] OWASP WebGoat;
 
 **Vulnerable Systems:**
 - [ ] Metasploitable;
@@ -63,8 +62,9 @@ Index of my study infrastructure.
   - Tools: Wireshark, IDA, x32dbg, x64dbg, ProcMon, ProcExp, Ghidra, DIE, HxD
 
 ### 🐧 Linux Environment
-- [ ] Debian + OWASP WebGoat (Snapshot);
-- [ ] Debian + DVWA (Snapshot);
+- [ ] Debian VM:
+  - Snapshot: OWASP Juice Shop
+  - Snapshot: DVWA
 
 ### 🔵 Blue Team / Detection
 - [ ] SOC Laboratory;

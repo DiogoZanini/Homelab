@@ -36,7 +36,6 @@
 **Aplicações Web:**
 - [ ] OWASP Juice Shop;
 - [ ] DVWA (Damn Vulnerable Web Application);
-- [ ] OWASP WebGoat;
 
 **Sistemas Vulneráveis:**
 - [ ] Metasploitable;
@@ -63,8 +62,9 @@
   - Ferramentas: Wireshark, IDA, x32dbg, x64dbg, ProcMon, ProcExp, Ghidra, DIE, HxD
 
 ### 🐧 Ambiente Linux
-- [ ] Debian + OWASP WebGoat (Snapshot);
-- [ ] Debian + DVWA (Snapshot);
+- [ ] Debian VM:
+  - Snapshot: OWASP Juice Shop
+  - Snapshot: DVWA
 
 ### 🔵 Blue Team / Detecção
 - [ ] Laboratório SOC;
