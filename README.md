@@ -20,13 +20,54 @@ Index of my study infrastructure.
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Personal setup and operational notes for an amnesic security environment on a USB drive. 
 
 ## Roadmap
-- [x] Tails Amnesic Incognito System live on a USB drive;
-- [x] Host Machine: VS Code IDE and Oracle VirtualBox;
-- [x] pfSense virtual machine;
-- [x] Kali Linux analyst virtual machine;
-- [ ] Metasploitable vulnerable machines;
-- [ ] OWASP Juice Shop vulnerable Web Server;
-- [ ] SOC Laboratory.
+
+### 🛠️ External Tools
+- [x] Host Machine: VS Code IDE + Oracle VirtualBox;
+- [x] Tails Amnesic Incognito System (Bootable USB);
+
+### 🌐 Homelab Infrastructure
+- [x] pfSense VM (Firewall/Router);
+
+### 🔴 Red Team / Analysis
+- [x] Kali Linux VM (Security Analysis);
+
+### 🎯 Attack Surface (Vulnerable Targets)
+
+**Web Applications:**
+- [ ] OWASP Juice Shop;
+- [ ] DVWA (Damn Vulnerable Web Application);
+- [ ] OWASP WebGoat;
+
+**Vulnerable Systems:**
+- [ ] Metasploitable;
+- [ ] Metasploitable2;
+- [ ] Metasploitable3-ub1404 (Ubuntu);
+- [ ] Metasploitable3-win2k8 (Windows);
+
+### 🪟 Windows Environment
+
+**Active Directory Lab:**
+- [ ] Windows Server 2025 + Active Directory;
+
+**Workstations:**
+- [ ] Windows 11 (Production);
+- [ ] Windows 10;
+
+**Legacy Systems (EOL):**
+- [ ] Windows 7;
+- [ ] Windows Vista;
+- [ ] Windows XP;
+
+**Malware Analysis (Isolated):**
+- [ ] Windows 11 - Malware Analysis Lab (Snapshot)
+  - Tools: Wireshark, IDA, x32dbg, x64dbg, ProcMon, ProcExp, Ghidra, DIE, HxD
+
+### 🐧 Linux Environment
+- [ ] Debian + OWASP WebGoat (Snapshot);
+- [ ] Debian + DVWA (Snapshot);
+
+### 🔵 Blue Team / Detection
+- [ ] SOC Laboratory;
 
 ## Troubleshooting
 Common issues and their solutions.

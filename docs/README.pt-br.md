@@ -20,13 +20,54 @@
 - [**Tails Amnesic Incognito System:**](https://github.com/DiogoZanini/Portable-Linux-Tails) Configuração pessoal e notas operacionais para um ambiente de segurança amnésico em um pendrive.
 
 ## Roadmap
-- [x] Tails Amnesic Incognito System em um pendrive;
-- [x] Máquina Host: VS Code IDE e Oracle VirtualBox;
-- [x] Máquina virtual pfSense;
-- [x] Máquina virtual Kali Linux para análise;
-- [ ] Máquinas vulneráveis Metasploitable;
-- [ ] Servidor Web vulnerável OWASP Juice Shop;
-- [ ] Laboratório SOC.
+
+### 🛠️ Ferramentas Externas
+- [x] Máquina Host: VS Code IDE + Oracle VirtualBox;
+- [x] Tails Amnesic Incognito System (USB Inicializável);
+
+### 🌐 Infraestrutura do Homelab
+- [x] pfSense VM (Firewall/Roteador);
+
+### 🔴 Red Team / Análise
+- [x] Kali Linux VM (Análise de Segurança);
+
+### 🎯 Superfície de Ataque (Alvos Vulneráveis)
+
+**Aplicações Web:**
+- [ ] OWASP Juice Shop;
+- [ ] DVWA (Damn Vulnerable Web Application);
+- [ ] OWASP WebGoat;
+
+**Sistemas Vulneráveis:**
+- [ ] Metasploitable;
+- [ ] Metasploitable2;
+- [ ] Metasploitable3-ub1404 (Ubuntu);
+- [ ] Metasploitable3-win2k8 (Windows);
+
+### 🪟 Ambiente Windows
+
+**Laboratório Active Directory:**
+- [ ] Windows Server 2025 + Active Directory;
+
+**Estações de Trabalho:**
+- [ ] Windows 11 (Produção);
+- [ ] Windows 10;
+
+**Sistemas Legados (EOL):**
+- [ ] Windows 7;
+- [ ] Windows Vista;
+- [ ] Windows XP;
+
+**Análise de Malware (Isolado):**
+- [ ] Windows 11 - Laboratório de Análise de Malware (Snapshot)
+  - Ferramentas: Wireshark, IDA, x32dbg, x64dbg, ProcMon, ProcExp, Ghidra, DIE, HxD
+
+### 🐧 Ambiente Linux
+- [ ] Debian + OWASP WebGoat (Snapshot);
+- [ ] Debian + DVWA (Snapshot);
+
+### 🔵 Blue Team / Detecção
+- [ ] Laboratório SOC;
 
 ## Solução de Problemas
 Problemas comuns e suas soluções.
