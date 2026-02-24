@@ -17,6 +17,11 @@ Index of my study infrastructure.
 ### 🔴 Red Team / Analysis
 - [**Kali Linux:**](https://github.com/DiogoZanini/Kali-Linux) Analyst virtual machine for security analysis of the homelab environment and CTF challenges on online study platforms.
 
+### 🎯 Attack Surface (Vulnerable Targets)
+
+**Vulnerable Systems:**
+- [**Metasploitable**](https://github.com/DiogoZanini/Metasploitable): First generation of intentionally vulnerable VMs for penetration testing practice and security training.
+
 ## Roadmap
 
 **Completed:**
@@ -32,7 +37,7 @@ Index of my study infrastructure.
 - [ ] DVWA (Damn Vulnerable Web Application);
 
 **Vulnerable Systems:**
-- [ ] Metasploitable;
+- [x] Metasploitable;
 - [ ] Metasploitable2;
 - [ ] Metasploitable3-ub1404 (Ubuntu);
 - [ ] Metasploitable3-win2k8 (Windows);

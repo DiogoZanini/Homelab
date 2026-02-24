@@ -17,6 +17,11 @@
 ### 🔴 Red Team / Análise
 - [**Kali Linux:**](https://github.com/DiogoZanini/Kali-Linux) Máquina virtual analista para análise de segurança do ambiente homelab e desafios CTF em plataformas de estudo online.
 
+### 🎯 Superfície de Ataque (Alvos Vulneráveis)
+
+**Sistemas Vulneráveis:**
+- [**Metasploitable:**](https://github.com/DiogoZanini/Metasploitable) Primeira geração de VMs intencionalmente vulneráveis para prática de testes de penetração e treinamento em segurança.
+
 ## Roadmap
 
 **Completo:**
@@ -32,7 +37,7 @@
 - [ ] DVWA (Damn Vulnerable Web Application);
 
 **Sistemas Vulneráveis:**
-- [ ] Metasploitable;
+- [x] Metasploitable;
 - [ ] Metasploitable2;
 - [ ] Metasploitable3-ub1404 (Ubuntu);
 - [ ] Metasploitable3-win2k8 (Windows);
