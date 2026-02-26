@@ -22,6 +22,9 @@
 **Sistemas Vulneráveis:**
 - [**Metasploitable:**](https://github.com/DiogoZanini/Metasploitable) Primeira geração de VMs intencionalmente vulneráveis para prática de testes de penetração e treinamento em segurança.
 
+**Aplicações Web:**
+- **DVWA (Damn Vulnerable Web Application)** — Em processo de documentação.
+
 ## Roadmap
 
 **Completo:**
@@ -29,6 +32,8 @@
 - [x] Tails Amnesic Incognito System (USB Inicializável);
 - [x] pfSense VM (Firewall/Roteador);
 - [x] Kali Linux VM (Análise de Segurança);
+- [x] Metasploitable (Primeira Geração);
+- [x] Debian + DVWA;
 
 ### 🎯 Superfície de Ataque (Alvos Vulneráveis)
 
@@ -37,7 +42,6 @@
 - [ ] DVWA (Damn Vulnerable Web Application);
 
 **Sistemas Vulneráveis:**
-- [x] Metasploitable;
 - [ ] Metasploitable2;
 - [ ] Metasploitable3-ub1404 (Ubuntu);
 - [ ] Metasploitable3-win2k8 (Windows);
