@@ -20,7 +20,7 @@ Index of my study infrastructure.
 ### 🎯 Attack Surface (Vulnerable Targets)
 
 **Vulnerable Systems:**
-- [**Metasploitable**](https://github.com/DiogoZanini/Metasploitable): First generation of intentionally vulnerable VMs for penetration testing practice and security training.
+- [**Metasploitable:**](https://github.com/DiogoZanini/Metasploitable) Intentionally vulnerable virtual machines for penetration testing practice and security training across multiple versions.
 
 **Web Applications:**
 - **DVWA (Damn Vulnerable Web Application)** — In documentation process.
@@ -32,7 +32,7 @@ Index of my study infrastructure.
 - [x] Tails Amnesic Incognito System (Bootable USB);
 - [x] pfSense VM (Firewall/Router);
 - [x] Kali Linux VM (Security Analysis);
-- [x] Metasploitable (First Generation);
+- [x] Metasploitable VMs (versions 1 and 2);
 - [x] Debian + DVWA;
 
 ### 🎯 Attack Surface (Vulnerable Targets)
@@ -42,7 +42,6 @@ Index of my study infrastructure.
 - [ ] DVWA (Damn Vulnerable Web Application);
 
 **Vulnerable Systems:**
-- [ ] Metasploitable2;
 - [ ] Metasploitable3-ub1404 (Ubuntu);
 - [ ] Metasploitable3-win2k8 (Windows);
 
