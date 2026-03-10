@@ -14,6 +14,9 @@ Index of my study infrastructure.
 ### 🌐 Homelab Infrastructure
 - [**pfSense:**](https://github.com/DiogoZanini/pfSense) Default gateway for the virtual lab network, handling routing and firewall rules.
 
+### 🔵 Blue Team / Detection
+- [**SOC Lab:**](https://github.com/DiogoZanini/SOC-Lab) Security Operations Center lab for hands-on practice with SIEM, log analysis, threat detection, and incident response workflows.
+
 ### 🔴 Red Team / Analysis
 - [**Kali Linux:**](https://github.com/DiogoZanini/Kali-Linux) Analyst virtual machine for security analysis of the homelab environment and CTF challenges on online study platforms.
 
@@ -34,6 +37,7 @@ Index of my study infrastructure.
 - [x] Kali Linux VM (Security Analysis);
 - [x] Metasploitable VMs (versions 1 and 2);
 - [x] Debian + DVWA;
+- [x] SOC Lab (in progress);
 
 ### 🎯 Attack Surface (Vulnerable Targets)
 
@@ -67,9 +71,6 @@ Index of my study infrastructure.
 - [ ] Debian VM:
   - Snapshot: OWASP Juice Shop
   - Snapshot: DVWA
-
-### 🔵 Blue Team / Detection
-- [ ] SOC Laboratory;
 
 ## Troubleshooting
 Common issues and their solutions.

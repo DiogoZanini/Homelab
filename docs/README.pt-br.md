@@ -14,6 +14,9 @@
 ### 🌐 Infraestrutura do Homelab
 - [**pfSense:**](https://github.com/DiogoZanini/pfSense) Gateway padrão para a rede do laboratório virtual, gerenciando roteamento e regras de firewall.
 
+### 🔵 Blue Team / Detecção
+- [**SOC Lab:**](https://github.com/DiogoZanini/SOC-Lab) Laboratório de Centro de Operações de Segurança para prática hands-on com SIEM, análise de logs, detecção de ameaças e fluxos de resposta a incidentes.
+
 ### 🔴 Red Team / Análise
 - [**Kali Linux:**](https://github.com/DiogoZanini/Kali-Linux) Máquina virtual analista para análise de segurança do ambiente homelab e desafios CTF em plataformas de estudo online.
 
@@ -34,6 +37,7 @@
 - [x] Kali Linux VM (Análise de Segurança);
 - [x] VMs Metasploitable (versões 1 e 2);
 - [x] Debian + DVWA;
+- [x] SOC Lab (em progresso);
 
 ### 🎯 Superfície de Ataque (Alvos Vulneráveis)
 
@@ -67,9 +71,6 @@
 - [ ] Debian VM:
   - Snapshot: OWASP Juice Shop
   - Snapshot: DVWA
-
-### 🔵 Blue Team / Detecção
-- [ ] Laboratório SOC;
 
 ## Solução de Problemas
 Problemas comuns e suas soluções.
