@@ -71,6 +71,8 @@ Index of my study infrastructure.
 - [ ] Debian VM:
   - Snapshot: OWASP Juice Shop
   - Snapshot: DVWA
+- [x] Kali Linux VM (Security Analysis)
+  - [ ] CTF Practice & WriteUps
 
 ## Troubleshooting
 Common issues and their solutions.

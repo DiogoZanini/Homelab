@@ -71,6 +71,8 @@
 - [ ] Debian VM:
   - Snapshot: OWASP Juice Shop
   - Snapshot: DVWA
+- [x] Kali Linux VM (Análise de Segurança)
+  - [ ] Prática de CTF & WriteUps
 
 ## Solução de Problemas
 Problemas comuns e suas soluções.
