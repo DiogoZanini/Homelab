@@ -77,7 +77,7 @@
 ## Solução de Problemas
 Problemas comuns e suas soluções.
 
-[Guia completo de solução de problemas](./docs/TROUBLESHOOTING.md)
+[Guia completo de solução de problemas em inglês](./docs/TROUBLESHOOTING.md)
 
 ### Driver name clash (VERR_PDM_USB_NAME_CLASH)
 - **Problema:** Drivers USB corrompidos/duplicados após reinstalação ou atualização.
